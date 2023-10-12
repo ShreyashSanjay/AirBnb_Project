@@ -2,7 +2,7 @@
 
 Created a dashboard using Tableau <be>
 
-[Kaggle Dataset][https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset]
+[Kaggle Dataset](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
 
 The first dashboard was to find a profitable zip code to set up a house for Airbnb. It also looks at which time of year earns the most.
 
